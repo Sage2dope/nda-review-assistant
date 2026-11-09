@@ -2,7 +2,7 @@
 
 Playbook-driven first-pass review of non-disclosure agreements. Upload an NDA, get a risk-rated comparison against the firm's agreed positions with the clause quoted and fallback wording ready to paste into a mark-up, then export the findings or ask follow-up questions about the document.
 
-**Live app:** _add your Streamlit link here_
+**Live app:** https://nda-review-assistant.streamlit.app/
 
 ## Why it exists
 
