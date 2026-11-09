@@ -1,0 +1,39 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+This Agreement is made on 3 March 2026 (the "Effective Date") between:
+(1) Northbank Analytics Limited, a company incorporated in England and Wales with company number 01234567, whose registered office is at 14 Quay Street, Bristol BS1 4AA ("Northbank"); and
+(2) Harrow & Finch Logistics Limited, a company incorporated in England and Wales with company number 07654321, whose registered office is at 2 Mill Lane, Leeds LS1 5QT ("Harrow & Finch").
+Each a "party" and together the "parties". This is a fictional sample document created for software testing.
+1. Background
+1.1 The parties wish to explore a possible commercial collaboration relating to route optimisation software (the "Purpose") and, in doing so, each party may disclose Confidential Information to the other.
+1.2 The parties have agreed to keep that information confidential on the terms of this Agreement.
+2. Definitions
+2.1 "Confidential Information" means all information disclosed by or on behalf of a party (the "Discloser") to the other party (the "Recipient") in connection with the Purpose, whether before or after the Effective Date and in any form, that is marked as confidential or that a reasonable person would regard as confidential having regard to its nature or the circumstances of its disclosure.
+2.2 "Representatives" means, in relation to a party, its employees, officers, professional advisers and contractors who need to know the Confidential Information for the Purpose.
+3. Obligations of confidentiality
+3.1 The Recipient shall keep the Discloser's Confidential Information secret and confidential and shall not use it for any purpose other than the Purpose.
+3.2 The Recipient shall not disclose the Discloser's Confidential Information to any person other than its Representatives, and shall ensure that its Representatives comply with this Agreement as if they were parties to it.
+3.3 The Recipient shall apply to the Discloser's Confidential Information no lesser security measures and degree of care than those it applies to its own confidential information, and in any event no less than a reasonable degree of care.
+4. Exclusions
+4.1 The obligations in clause 3 shall not apply to information that:
+(a) is or becomes generally available to the public other than as a result of a breach of this Agreement;
+(b) was lawfully in the Recipient's possession before disclosure by the Discloser, as shown by the Recipient's written records; or
+(c) is lawfully obtained by the Recipient from a third party who is not under an obligation of confidence in respect of it.
+4.2 The Recipient may disclose Confidential Information to the extent required by law, by a court of competent jurisdiction or by any regulatory authority, provided that, where it is lawful to do so, it gives the Discloser prompt prior written notice of the disclosure.
+5. Return of information
+5.1 On written request from the Discloser, the Recipient shall promptly return or destroy all documents and materials containing the Discloser's Confidential Information, save that the Recipient may retain copies to the extent required by law or by its bona fide document retention policies.
+6. Term and termination
+6.1 This Agreement shall continue for a period of two (2) years from the Effective Date. Either party may end discussions at any time by giving written notice to the other.
+6.2 Each party's obligations in respect of Confidential Information shall survive for five (5) years from the date of termination or expiry of this Agreement.
+7. Remedies
+7.1 Each party acknowledges that damages alone may not be an adequate remedy for a breach of this Agreement and that the other party shall be entitled to seek injunctive or other equitable relief, without prejudice to any other rights or remedies it may have.
+8. Non-solicitation
+8.1 For a period of twelve (12) months from the end of discussions, neither party shall directly solicit for employment any employee of the other party with whom it had material contact in connection with the Purpose.
+9. General
+9.1 Nothing in this Agreement obliges either party to enter into any further agreement. No licence of any intellectual property right is granted by this Agreement.
+9.2 This Agreement constitutes the entire agreement between the parties relating to its subject matter. Any variation must be in writing and signed by both parties.
+9.3 A person who is not a party to this Agreement shall have no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any of its terms.
+10. Governing law and jurisdiction
+10.1 This Agreement and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it shall be governed by and construed in accordance with the law of England and Wales.
+10.2 Each party irrevocably agrees that the courts of England and Wales shall have non-exclusive jurisdiction to settle any such dispute or claim.
+Signed by a duly authorised signatory for and on behalf of Northbank Analytics Limited: ______________________
+Signed by a duly authorised signatory for and on behalf of Harrow & Finch Logistics Limited: ______________________

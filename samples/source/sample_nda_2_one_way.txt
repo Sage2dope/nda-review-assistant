@@ -1,0 +1,33 @@
+CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT
+This Confidentiality and Non-Disclosure Agreement (the "Agreement") is entered into as of 12 May 2026 by and between:
+Vantor Systems, Inc., a Delaware corporation with its principal place of business at 400 Hudson Avenue, New York, NY 10013 (the "Company"); and
+Severnside Robotics Limited, a company incorporated in England and Wales with company number 09876543, whose registered office is at Unit 6, Harbour Works, Bristol BS2 0XJ (the "Recipient").
+This is a fictional sample document created for software testing.
+1. Purpose
+1.1 The Company and the Recipient intend to discuss a potential supply and technology partnership (the "Purpose"). In the course of those discussions each party expects to share commercially sensitive information with the other.
+2. Confidential Information
+2.1 "Confidential Information" means any and all information of whatever nature relating to the Company, its affiliates, or their respective businesses, customers, products, finances, personnel or plans, whether or not marked as confidential, whether disclosed before or after the date of this Agreement, in any form or medium, and howsoever it comes to the knowledge of the Recipient, together with all notes, analyses and other materials prepared by the Recipient that contain or reflect such information.
+2.2 For the avoidance of doubt, information disclosed by the Recipient to the Company shall not be treated as confidential and the Company shall be free to use and disclose such information without restriction.
+3. Recipient's obligations
+3.1 The Recipient shall hold all Confidential Information in the strictest confidence and shall not disclose it to any person without the prior written consent of the Company.
+3.2 The Recipient shall use the Confidential Information solely for the Purpose and shall not copy, reverse engineer or reduce it to writing except as strictly necessary for the Purpose.
+3.3 All Confidential Information shall be deemed confidential regardless of whether it is or later becomes available from any other source, and the Recipient shall have no right to rely on any such availability as a defence to a claim under this Agreement.
+4. Duration
+4.1 This Agreement shall take effect on the date first written above and the obligations of the Recipient under it shall continue in perpetuity and shall survive the conclusion of discussions between the parties and the termination of any subsequent agreement between them.
+5. Return of materials
+5.1 Upon demand by the Company the Recipient shall within two (2) business days return or permanently destroy all Confidential Information and certify in writing, signed by a director, that it has done so.
+6. Indemnity and remedies
+6.1 The Recipient shall indemnify and hold harmless the Company and its affiliates, on demand and without limit, from and against all losses, damages, costs and expenses (including indirect and consequential losses, loss of profit and legal fees on a full indemnity basis) arising out of or in connection with any actual or threatened breach of this Agreement by the Recipient or its personnel.
+6.2 The Recipient agrees that any breach of this Agreement will cause the Company irreparable harm and that the Company shall be entitled to injunctive relief without the need to post a bond or prove actual damage, and the Recipient waives any right to oppose the grant of such relief.
+6.3 In addition to the foregoing, the Recipient shall pay to the Company the sum of US$250,000 as liquidated damages in respect of each breach of this Agreement.
+7. Non-solicitation and non-dealing
+7.1 During the term of the discussions and for a period of three (3) years thereafter, the Recipient shall not, directly or indirectly, solicit, employ or engage any employee, consultant or contractor of the Company or its affiliates.
+7.2 During the same period the Recipient shall not, directly or indirectly, solicit or deal with any customer or supplier of the Company or its affiliates of which the Recipient became aware in connection with the Purpose.
+8. General
+8.1 No failure or delay by the Company in exercising any right under this Agreement shall operate as a waiver of that right.
+8.2 The Recipient may not assign this Agreement. The Company may assign this Agreement to any affiliate or successor without consent.
+9. Governing law and venue
+9.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of laws principles.
+9.2 The parties irrevocably submit to the exclusive jurisdiction of the state and federal courts located in New York County, New York, and each party waives any right to a trial by jury.
+Signed for and on behalf of Vantor Systems, Inc.: ______________________
+Signed for and on behalf of Severnside Robotics Limited: ______________________

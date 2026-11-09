@@ -1,0 +1,179 @@
+# NDA playbook.
+# This file is the single source of truth for the review. A lawyer or knowledge
+# team can edit positions here without touching any code.
+
+firm: Sample LLP
+version: "1.0"
+perspective: >-
+  The firm acts for a UK commercial client entering into NDAs for exploratory
+  commercial discussions. The client usually both discloses and receives
+  information, so the preferred form is a balanced mutual NDA.
+
+risk_guidance:
+  High: Outside the firm's acceptable range. Do not sign without partner approval.
+  Medium: Departs from the preferred position. Negotiate using the fallback wording.
+  Low: Minor or stylistic departure. Accept if commercially necessary and note on file.
+
+topics:
+  - id: term
+    name: Term and duration
+    preferred: >-
+      A fixed agreement term of 1 to 2 years, with confidentiality obligations
+      surviving for 3 years from the date of disclosure or termination. Trade
+      secrets may be protected for as long as they remain trade secrets.
+    acceptable: >-
+      Survival of obligations for up to 5 years.
+    high_risk_if: >-
+      Obligations are perpetual or indefinite for all information, there is no
+      stated end date at all, or survival exceeds 7 years.
+    medium_risk_if: >-
+      Survival is longer than 5 years and up to 7 years, or the agreement has no
+      right for either party to terminate discussions on notice.
+    low_risk_if: >-
+      Survival is longer than 3 years and up to 5 years.
+    fallback_wording: >-
+      This Agreement shall continue for a period of two (2) years from the
+      Effective Date. Each party's obligations in respect of Confidential
+      Information shall survive for three (3) years from the date of termination
+      or expiry, save that obligations in respect of trade secrets shall continue
+      for so long as that information remains a trade secret.
+
+  - id: definition
+    name: Definition of Confidential Information
+    preferred: >-
+      A reasonably scoped definition covering information disclosed for the
+      Purpose that is marked confidential or that a reasonable person would
+      understand to be confidential given its nature or the circumstances of
+      disclosure. The definition should apply equally to both parties.
+    acceptable: >-
+      A broad definition is acceptable if the standard exclusions apply and the
+      definition is mutual.
+    high_risk_if: >-
+      The definition is one-sided against the client (only the counterparty's
+      information is protected while the client is also disclosing), or it
+      captures all information of any kind with no link to the Purpose and no
+      exclusions.
+    medium_risk_if: >-
+      Protection depends on information being marked or confirmed in writing
+      within a short period (so oral disclosures may fall outside), or the
+      definition extends to information the recipient derives independently.
+    low_risk_if: >-
+      The definition is broad but mutual and subject to the standard exclusions.
+    fallback_wording: >-
+      "Confidential Information" means all information disclosed by or on behalf
+      of a party (the Discloser) to the other party (the Recipient) in connection
+      with the Purpose, whether before or after the Effective Date and in any
+      form, that is marked as confidential or that a reasonable person would
+      regard as confidential having regard to its nature or the circumstances of
+      its disclosure.
+
+  - id: exclusions
+    name: Exclusions from confidentiality
+    preferred: >-
+      All five standard exclusions are present: (a) information that is or
+      becomes public other than through breach; (b) information already lawfully
+      known to the recipient; (c) information lawfully received from a third
+      party without restriction; (d) information independently developed without
+      use of the Confidential Information; and (e) disclosure required by law,
+      court order or regulator, with prior notice where lawful.
+    acceptable: >-
+      Exclusions (a) to (d) may carry a burden of proof on the recipient
+      (for example, "as shown by written records").
+    high_risk_if: >-
+      There are no exclusions, or the compelled disclosure exclusion (e) is
+      missing so that the client could be in breach by complying with the law.
+    medium_risk_if: >-
+      One or two of exclusions (a) to (d) are missing, most commonly independent
+      development.
+    low_risk_if: >-
+      All exclusions are present but subject to an onerous evidential standard
+      or notice requirement.
+    fallback_wording: >-
+      The obligations in this Agreement shall not apply to information that:
+      (a) is or becomes generally available to the public other than as a result
+      of a breach of this Agreement; (b) was lawfully in the Recipient's
+      possession before disclosure by the Discloser; (c) is lawfully obtained by
+      the Recipient from a third party who is not under an obligation of
+      confidence; or (d) is independently developed by the Recipient without use
+      of the Confidential Information. The Recipient may disclose Confidential
+      Information to the extent required by law, a court of competent
+      jurisdiction or any regulatory authority, provided that, where lawful, it
+      gives the Discloser prompt prior written notice.
+
+  - id: governing_law
+    name: Governing law and jurisdiction
+    preferred: >-
+      The laws of England and Wales, with the courts of England and Wales having
+      exclusive jurisdiction.
+    acceptable: >-
+      Non-exclusive jurisdiction of the English courts, or the laws of Scotland
+      or Northern Ireland with the corresponding courts.
+    high_risk_if: >-
+      The governing law is outside the UK and Ireland (for example a US state),
+      particularly where combined with exclusive foreign courts or a jury trial
+      waiver, or no governing law is stated in a cross-border agreement.
+    medium_risk_if: >-
+      The governing law is Irish law or another common law jurisdiction with
+      which the client regularly deals, or mandatory arbitration is required
+      with a seat outside the UK.
+    low_risk_if: >-
+      English law applies but jurisdiction is non-exclusive, or the law of
+      Scotland or Northern Ireland applies.
+    fallback_wording: >-
+      This Agreement and any dispute or claim (including non-contractual disputes
+      or claims) arising out of or in connection with it shall be governed by and
+      construed in accordance with the law of England and Wales. Each party
+      irrevocably agrees that the courts of England and Wales shall have
+      exclusive jurisdiction to settle any such dispute or claim.
+
+  - id: liability
+    name: Liability and remedies
+    preferred: >-
+      No indemnity. Liability is left to general law, with an acknowledgement
+      that damages alone may not be an adequate remedy and that equitable relief
+      (injunction, specific performance) may be sought.
+    acceptable: >-
+      A mutual indemnity limited to reasonable and foreseeable losses arising
+      from a breach.
+    high_risk_if: >-
+      The client gives a one-way or uncapped indemnity, the clause provides for
+      liquidated damages or a penalty sum, liability extends to indirect or
+      consequential loss on an indemnity basis, or the client waives the right to
+      oppose injunctive relief.
+    medium_risk_if: >-
+      There is a mutual indemnity that is uncapped, or the client must pay the
+      counterparty's legal costs on an indemnity basis.
+    low_risk_if: >-
+      The agreement contains a mutual acknowledgement of equitable relief with
+      minor departures in wording, or is silent on remedies.
+    fallback_wording: >-
+      Each party acknowledges that damages alone may not be an adequate remedy
+      for a breach of this Agreement and that the other party shall be entitled
+      to seek injunctive or other equitable relief, without prejudice to any
+      other rights or remedies it may have. Nothing in this Agreement shall
+      oblige either party to indemnify the other.
+
+  - id: non_solicitation
+    name: Non-solicitation
+    preferred: >-
+      No non-solicitation clause. An NDA for exploratory discussions should not
+      restrict hiring or dealing with customers.
+    acceptable: >-
+      A mutual non-solicitation of employees who were directly involved in the
+      discussions, for no more than 6 months after the discussions end, with a
+      carve-out for general recruitment advertising.
+    high_risk_if: >-
+      The restriction lasts longer than 12 months, binds only the client,
+      extends to customers or suppliers, or operates as a non-compete.
+    medium_risk_if: >-
+      A mutual employee non-solicitation lasting more than 6 months and up to
+      12 months, or with no carve-out for general advertising.
+    low_risk_if: >-
+      A mutual employee non-solicitation within the acceptable position.
+    fallback_wording: >-
+      For a period of six (6) months from the end of discussions, neither party
+      shall directly solicit for employment any employee of the other party with
+      whom it had material contact in connection with the Purpose. This clause
+      shall not prevent either party from hiring any person who responds to a
+      general recruitment advertisement not specifically targeted at the other
+      party's employees.
