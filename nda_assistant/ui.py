@@ -11,7 +11,7 @@ RISK_DOT = {"High": "🔴", "Medium": "🟠", "Low": "🟡", "None": "🟢", "Re
 
 CSS = """
 <style>
-[data-testid="stMainBlockContainer"] { padding-top: 2.2rem; max-width: 1180px; }
+[data-testid="stMainBlockContainer"] { padding-top: 4rem; max-width: 1180px; }
 [data-testid="stSidebar"] { border-right: 1px solid #e3e8ef; }
 
 .nda-header { background: linear-gradient(120deg, #16293f 0%, #1f3a5f 60%, #2c5282 100%);
